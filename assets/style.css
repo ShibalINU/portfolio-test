@@ -1,6 +1,7 @@
 body{
     background-color: black;
     font-family: Inter display thin;
+    text-decoration: none;
 }
 .home-text{
     margin: auto;
