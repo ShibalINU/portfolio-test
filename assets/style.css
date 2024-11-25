@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    font-family: Inter display thin;
+}
+.home-text{
+    margin: auto;
+    width: auto;
+}
+.home-text h1{
+    text-align: center;
+    padding: 10px;
+    font-size: 4rem;
+    color: white;
+}
+.home-text h2{
+    text-align: center;
+    padding: 10px;
+    font-size: 3rem;
+    color: white;
+}
+.home-text p{
+    text-align: center;
+    padding: 10px;
+    font-size: 2rem;
+    color: white;
+}
